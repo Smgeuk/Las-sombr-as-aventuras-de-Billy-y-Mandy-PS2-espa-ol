@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/3d0ed485-b07e-48e6-97c6-d9574f2e786f
 
 <img width="1260" height="651" alt="Captura de pantalla 2026-11-08 222738" src="https://github.com/user-attachments/assets/96520656-2365-4029-9146-79da0b72e957" />
 
-<img width="4806" height="2688" alt="merged-image" src="https://github.com/user-attachments/assets/e415c2ee-1ddd-49b5-b437-978cd628417f" />
+<img width="4806" height="2688" alt="merged-image" src="https://github.com/user-attachments/assets/919508a2-002e-4d0d-8401-ee066209bd69" />
 
 
 # COMO INSTALAR:

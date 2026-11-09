@@ -11,3 +11,7 @@ En cuanto a los archivos de video:
   -Las cinemáticas originales mantienen el audio en inglés, pero se les añadieron subtítulos en español para facilitar su comprensión.
 
 El resultado es una traducción lo más completa y pulida posible, que permite disfrutar del juego en español de principio a fin, respetando tanto la jugabilidad como el estilo característico de la serie.
+
+Importante sobre las texturas e imágenes:
+
+Debido a que actualmente no existe ningún programa seguro y confiable que permita descodificar o modificar de forma nativa los archivos donde se almacenan las imágenes del juego, estas traducciones visuales deben aplicarse como texturas de reemplazo a través del emulador de PS2 (PCSX2). Esto implica que, si se desea jugar en una PlayStation 2 real (mediante disco o memoria USB), los menús, pantallas de título y otros elementos gráficos permanecerán en inglés, ya que las texturas modificadas solo funcionan correctamente en el emulador.

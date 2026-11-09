@@ -28,3 +28,20 @@ https://github.com/user-attachments/assets/3d0ed485-b07e-48e6-97c6-d9574f2e786f
 <img width="1260" height="651" alt="Captura de pantalla 2026-11-08 222738" src="https://github.com/user-attachments/assets/96520656-2365-4029-9146-79da0b72e957" />
 
 <img width="4806" height="2688" alt="merged-image" src="https://github.com/user-attachments/assets/e415c2ee-1ddd-49b5-b437-978cd628417f" />
+
+
+# COMO INSTALAR:
+
+Lo primero sera descargar la rom subida a releases y ponerla en tu carpeta de roms para que quede en el emulador
+
+<img width="1260" height="862" alt="image" src="https://github.com/user-attachments/assets/9ef0f1c5-797b-420f-ac71-b5ea50632d22" />
+
+Una vez tengamos la rom nos vamos a propiedades del juego, luego gráficos y luego reemplazo de texturas ahi activamos la opción de reemplazar texturas
+
+<img width="902" height="832" alt="image" src="https://github.com/user-attachments/assets/1237120d-2b7b-4bd6-bc2a-8eaa1933d082" />
+
+Luego descarga la el zip llamado SLUS-21451 en releases y copia los archivos en la siguiente ruta de tu computadora: "C:\Users\<NombreDeUsuario>\Documents\PCSX2\textures" y dale en extrac to
+
+<img width="901" height="615" alt="image" src="https://github.com/user-attachments/assets/c9134e4c-23cb-4b1b-b141-b251a08f0e79" />
+
+Ya con esto puedes jugar el juego sin problemas y con todo en español.
